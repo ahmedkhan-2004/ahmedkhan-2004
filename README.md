@@ -28,7 +28,7 @@
 ## 💼 Professional Experience
 
 ### 🏦 **Dasseti** (Nasdaq-backed fintech, $27T+ AUM)
-**Junior AI Application Developer Intern** | Jul 2025 - Sep 2025
+**Junior AI Application Developer Intern** | Jul 2025 - Oct 2025
 
 - Built **production RAG system** with Elasticsearch + Microsoft Semantic Kernel
 - Reduced analyst workload **60%** (8-12 hrs → 3-5 hrs/day)

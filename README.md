@@ -133,7 +133,7 @@ technical_strengths:
 #### 🛠️ **Tech Stack:**
 ```
 Backend:      .NET 8, C#, ASP.NET Core
-AI/LLM:       Azure OpenAI GPT-4o, Semantic Kernel 1.0
+AI/LLM:       Azure OpenAI GPT-5, Semantic Kernel 1.0
 Search:       Elasticsearch 8.x (hybrid search, vector + keyword)
 Infrastructure: Docker, Kubernetes (AKS), Azure Container Apps
 Monitoring:   Application Insights, Prometheus
@@ -539,7 +539,7 @@ learning_focus = {
         "GPT-5 (OpenAI's latest release)",
         "Claude Sonnet 5 (coming soon)",
         "Claude 3.7 Sonnet (400K context)",
-        "Gemini 2.0 Flash",
+        "Gemini 3.0 Flash",
         "OpenAI o3-mini (reasoning models)"
     ]
 }
@@ -671,12 +671,6 @@ Issued: 2025 | DeepLearning.AI
 </td>
 <td width="33%" align="center">
 
-### Compensation
-
-**Salary Target:**
-- AED 18,000-25,000/month
-- ($4,900-$6,800/month)
-- Negotiable for right opportunity
 
 **Also Open To:**
 - Equity/stock options

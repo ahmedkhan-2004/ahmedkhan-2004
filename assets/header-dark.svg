@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t">
+<title id="t">Ahmed Khan, Applied AI Engineer</title>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#1f2630"/></pattern>
+  <radialGradient id="halo"><stop offset="0" stop-color="#8fa8ff" stop-opacity="0.16"/><stop offset="1" stop-color="#8fa8ff" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect width="1200" height="300" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect x="700" width="500" height="300" fill="url(#dots)"/>
+  <circle cx="960" cy="160" r="230" fill="url(#halo)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="6s" repeatCount="indefinite"/></circle>
+
+  <g>
+    <animate attributeName="opacity" values="0;1" dur="0.9s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 14;0 0" dur="0.9s" fill="freeze"/>
+    <text x="72" y="142" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#e6edf3">Ahmed Khan</text>
+    <text x="75" y="188" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#8fa8ff">Applied AI Engineer</text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.45;1" dur="1.6s" fill="freeze"/>
+    <text x="75" y="234" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e">I build the systems around AI models: the context they get,</text>
+    <text x="75" y="260" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e">the tools they use, the checks they pass, and the feedback loop.</text>
+  </g>
+
+  <path d="M820 88 L960 160 L1100 88 L1100 232 L820 232 Z" fill="none" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 7">
+    <animate attributeName="stroke-dashoffset" values="0;-22" dur="1.2s" repeatCount="indefinite"/></path>
+  <circle r="5" fill="#8fa8ff" opacity="1"><animateMotion dur="7s" begin="0s" repeatCount="indefinite" path="M820 88 L960 160 L1100 88 L1100 232 L820 232 Z"/></circle>
+<circle r="3.75" fill="#8fa8ff" opacity="0.45"><animateMotion dur="7s" begin="-6.86s" repeatCount="indefinite" path="M820 88 L960 160 L1100 88 L1100 232 L820 232 Z"/></circle>
+<circle r="2.75" fill="#8fa8ff" opacity="0.2"><animateMotion dur="7s" begin="-6.72s" repeatCount="indefinite" path="M820 88 L960 160 L1100 88 L1100 232 L820 232 Z"/></circle>
+  <circle cx="820" cy="88" r="24" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="820" cy="88" r="24" fill="none" stroke="#8fa8ff" stroke-width="2.5" opacity="0"><animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.07;0.95;1" values="1;0;0;1"/></circle>
+<text x="820" y="93" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8fa8ff">{ }</text>
+<text x="820" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">context</text><circle cx="960" cy="160" r="40" fill="none" stroke="#8fa8ff" stroke-width="1.5">
+  <animate attributeName="r" values="40;64" dur="2.6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.6;0" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="960" cy="160" r="40" fill="#161b22" stroke="#8fa8ff" stroke-width="2"/>
+<circle cx="960" cy="160" r="40" fill="#8fa8ff" opacity="0"><animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.148;0.178;0.258;1" values="0;0;1;0;0"/></circle>
+<text x="960" y="165" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="600" fill="#e6edf3">model</text><circle cx="1100" cy="88" r="24" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="1100" cy="88" r="24" fill="none" stroke="#8fa8ff" stroke-width="2.5" opacity="0"><animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.327;0.357;0.437;1" values="0;0;1;0;0"/></circle>
+<text x="1100" y="93" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8fa8ff">&lt;/&gt;</text>
+<text x="1100" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">tools</text><circle cx="1100" cy="232" r="24" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="1100" cy="232" r="24" fill="none" stroke="#8fa8ff" stroke-width="2.5" opacity="0"><animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.490;0.520;0.600;1" values="0;0;1;0;0"/></circle>
+<text x="1100" y="237" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8fa8ff">✓</text>
+<text x="1100" y="280" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">checks</text><circle cx="820" cy="232" r="24" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="820" cy="232" r="24" fill="none" stroke="#8fa8ff" stroke-width="2.5" opacity="0"><animate attributeName="opacity" dur="7s" repeatCount="indefinite" keyTimes="0;0.807;0.837;0.917;1" values="0;0;1;0;0"/></circle>
+<text x="820" y="237" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8fa8ff">↺</text>
+<text x="820" y="280" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">feedback</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#30363d"/>
+</svg>
